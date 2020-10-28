@@ -89,4 +89,4 @@ return [
     'messages' => [
         'content.required' => '请填写回复内容',
     ],
-];
+];  
