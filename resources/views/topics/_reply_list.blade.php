@@ -28,7 +28,7 @@
                 </button>
               </form>
             </span>
-          @endcan
+          @endcan 
         </div>
         <div class="reply-content text-secondary">
           {!! $reply->content !!}
